@@ -1,0 +1,142 @@
+
+.icons{
+    cursor: pointer;
+    padding: 4px;
+    margin: 4px;
+    position: relative;
+    top: 10px;
+}
+.icons:hover{
+    background-color:rgb(76, 142, 240);
+}
+.button{
+    position: relative;
+    top: 15px;
+    right: 20px;
+}
+.home{  
+    font-size: 16px;
+    margin: 10px;
+    padding: 8px;
+    position: relative;
+    top: 25px;
+}
+.home:hover{
+    background-color:rgb(56, 122, 221);
+    color: white;
+    border-radius: 15px;
+}
+.line{
+   font-size: 13px;
+   background-color: rgb(56, 122, 221);
+   color: white;
+   margin: 10px;
+   padding: 5px;
+   text-align: center;
+}
+.head{
+    text-align: center;
+}
+.numb{
+    position: relative;
+    bottom: 20px;
+}
+.numb1{
+    position: relative;
+    bottom: 30px;
+}
+.upcom{
+    position: relative;
+    top: 30px;
+}
+.box1{
+    width: 300px;
+    height: 170px;
+    margin: 15px;
+    display: inline-block;
+    box-shadow: 2px;
+    background-color: white;
+    box-shadow: 5px 5px 10px 4px #d8d6d6;
+}
+.icon{
+    text-align: center;
+}
+.under{
+  color: darkgreen;
+  position: relative;
+  bottom: 30px;
+}
+
+.sidebox2{
+    position: relative;
+    bottom: 100px;
+}
+.box2{
+    height: 70px;
+    width: 370px;
+    display: inline-block;
+    margin: 5px;
+    background-color: rgb(241, 242, 255);
+}
+.box3{
+    border: darkgreen solid 2px;
+    width: 150px;
+    height: 100px;
+    
+}
+.pics{
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.numb1{
+    color: rgb(146, 145, 145);
+    font-size: 12px;
+    list-style-type: none;
+    margin: 10px;
+    position: relative;
+    right: 15px;
+}
+.numb2{
+    font-size: 12px;
+    color: rgb(146, 145, 145);
+    list-style-type: none;
+    position: relative;
+    left:150px;
+    bottom: 170px;
+}
+.line0{
+    position: relative;
+    bottom: 190px;
+    color: white;
+}
+.line2{
+    position: relative;
+    bottom: 210px;
+    font-size: large;
+    font-weight: bolder;
+}
+.line3{
+    position: relative;
+    bottom: 190px;
+    left: 20px;
+    color: white;
+}
+.iconcir{
+    background-color: rgb(69, 69, 226);
+    padding: 5px;
+    border-radius: 20px;
+    cursor: pointer;
+    position: relative;
+    bottom: 190px;
+    left: 20px;
+    margin: 2px;
+}
+.top{
+    position: relative;
+    left: 1170px;
+    bottom: 15px;
+    position: fixed;
+}
